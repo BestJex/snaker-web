@@ -26,7 +26,7 @@ public class BorrowManager {
         /** 流程数据构造开始 */
         Map<String, Object> params = new HashMap<String, Object>();
         params.put("apply.operator", ShiroUtils.getUsername());
-        params.put("approval.operator", ShiroUtils.getUsername());
+        params.put("approval.operator", "snaker");
         /** 流程数据构造结束 */
 
         /**
