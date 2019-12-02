@@ -34,4 +34,18 @@ snaker-web项目是基于snaker流程引擎开发的web应用，其中包含流�
 演示系统提供了两个流程，但是默认数据库没有数据。使用admin登录，点击左侧流程定义，右边页面刷新之后，点击“初始化”按钮。
 “初始化”按钮往向工作流引擎中部署流程。之后就可以测试流程了。
 
+## Snaker Document
+
+http://snakerflow.cn:8081/book/index.html
+
+## 联系方式
+- QQ群：979147234
+
+- 邮箱：zhaoguoqing360@126.com
+
+
 Enjoy!
+
+
+
+
