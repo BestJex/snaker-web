@@ -29,7 +29,8 @@ snaker-web项目是基于snaker流程引擎开发的web应用，其中包含流�
 
 程序会自动填充数据。
 
-![2D6A41F9-7B54-4470-8BB7-4F7CEA5FBC68.png](http://ww1.sinaimg.cn/large/6301357dgy1gd9shknlhlj21ni11kwkg.jpg)
+
+![IDEA.png](http://ww1.sinaimg.cn/large/6301357dgy1gd9shknlhlj21ni11kwkg.jpg)
 
 6. 初始化流程
 
