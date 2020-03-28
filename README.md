@@ -29,6 +29,8 @@ snaker-web项目是基于snaker流程引擎开发的web应用，其中包含流�
 
 程序会自动填充数据。
 
+![2D6A41F9-7B54-4470-8BB7-4F7CEA5FBC68.png](http://ww1.sinaimg.cn/large/6301357dgy1gd9shknlhlj21ni11kwkg.jpg)
+
 6. 初始化流程
 
 演示系统提供了两个流程，但是默认数据库没有数据。使用admin登录，点击左侧流程定义，右边页面刷新之后，点击“初始化”按钮。
